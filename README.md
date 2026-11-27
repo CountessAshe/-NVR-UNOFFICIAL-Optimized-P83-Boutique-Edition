@@ -1,10 +1,6 @@
 # New Vegas Reloaded - UNOFFICIAL Optimized
 
-**A faster version of New Vegas Reloaded (NVR) that keeps the same look.**
-
-New Vegas Reloaded makes Fallout: New Vegas look much better - shadows, fog, light rays, ambient
-occlusion and more - but those effects cost a lot of frame rate. This build reworks how the effects
-are drawn so they do the same job with much less work, and fixes a few visual bugs along the way.
+**This unofficial build is for people who want the original P series of NVR Unofficial (Also known as NVR lunacy) back but at it's most stable**
 
 ### What you get
 - **More FPS with NVR's effects on.** On the test PC (GTX 1070 at 2560x1440) the heavy effects
@@ -30,11 +26,6 @@ are drawn so they do the same job with much less work, and fixes a few visual bu
 - **A built-in performance meter** (F10) that shows what each effect costs on your PC. While it is
   running, a small dim red dot and "PROF" show in the top-right corner of the screen. The log also gets
   frame-time percentiles and "1% low" figures, which are the best way to compare two setups.
-
-> [!NOTE]
-> **Experimental.** So far this has been tested on only one PC (NVIDIA GTX 1070, Windows 10).
-> AMD/Intel cards, DXVK and many mod setups have not been tried; interiors have only had a short test. Keep a backup of your
-> NVR files. Reports of what works and what breaks are welcome in this repository's issues.
 
 ### How to install
 Since P45 the zip is a complete New Vegas Reloaded install: the plugin DLL, its settings file, all
