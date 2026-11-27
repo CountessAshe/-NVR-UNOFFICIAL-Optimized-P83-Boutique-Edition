@@ -241,7 +241,7 @@ Technical details of every change: [docs/UNOFFICIAL-TECHNICAL.md](docs/UNOFFICIA
 > modify and redistribute it under those terms. Binaries built from it must keep the word
 > "UNOFFICIAL" (or another custom name) in their product name or description and may not be sold.
 >
-> **Credit:** New Vegas Reloaded / TESReloaded by Alessio Tamburini (Alenet), maintained by Llde,
+> **Credit:** New Vegas Reloaded / TESReloaded by Alessio Tamburini (Alenet), maintained by Llde and owen simkins for backporting the p84 volumetric clouds back into p83. 
 > with the New Vegas Reloaded team and all contributors listed in [License.md](License.md) and below.
 > Built on the fork by [macrimmon12-tech](https://github.com/macrimmon12-tech/TESReloaded10)
 > (volumetric fog v2, skin and lighting fixes, ImGui menu and more), whose history is preserved in
