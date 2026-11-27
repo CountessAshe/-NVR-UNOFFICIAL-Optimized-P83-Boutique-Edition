@@ -3,7 +3,7 @@
 **This unofficial build is for people who want the original P series of NVR Unofficial (Also known as NVR lunacy) back but at it's most stable**
 
 ### What you get
-- **More FPS with NVR's effects on.** On the test PC (GTX 1070 at 2560x1440) the heavy effects
+- **More FPS with NVR's effects on and with new shaders.** On the test PC (GTX 1070 at 2560x1440) the heavy effects
   all got cheaper - for example ambient occlusion went from about 2.3 ms to 0.5 ms per frame, god
   rays from about 1.6 ms to 0.5 ms, and SMAA and contact shadows by roughly 40-50%.
 - **The same image.** Almost all of the speed-ups produce the same picture as before.
